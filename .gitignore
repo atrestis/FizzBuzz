@@ -1,0 +1,9 @@
+ #OS generated files #
+######################
+._*
+__pycache__/
+.cache
+.coverage
+*.egg-info
+build
+dist
