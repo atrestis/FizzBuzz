@@ -1,7 +1,7 @@
 # Fizz Buzz
 
 [![Build Status](https://travis-ci.org/atrestis/FizzBuzz.svg?branch=master)](https://travis-ci.org/atrestis/FizzBuzz)
-[![Discord Contribution](https://img.shields.io/badge/Discord-Contribution-blue.svg?branch=master)](https://discord.gg/Avm52xU)
+[![Discord Contribution](https://img.shields.io/badge/Discord-Contribution-blue.svg?branch=master)](https://discord.gg/36ZDpPY)
 
 ## What for?
 

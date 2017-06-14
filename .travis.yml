@@ -7,7 +7,7 @@ dist: trusty
 
 install: "pip install -r requirements.txt"
 
-script: pytest testSample.py
+script: pytest tests/testSample.py
 
 notifications: 
   email: false
