@@ -1,7 +1,13 @@
- #OS generated files #
-######################
-._*
+# Ignore following DIRs #
+#########################
+
 __pycache__/
+build/
+
+
+# Other system generated files #
+################################
+
 .cache
 .coverage
 *.egg-info
